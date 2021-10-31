@@ -110,14 +110,14 @@ a:active {
 
 /* Overall Layout */
 #body {
-	width: 1200px;
+	width: 2800px;
 	margin-right: auto;
 	margin-left: auto;
 	text-align: left;
 }
 #header {
 	background:url(images/poster.jpg) no-repeat ;
-	width: 2808px;
+	width: 2800px;
 	height:1116px;
 	margin:0px;
 	padding:0;
